@@ -24,9 +24,8 @@ def counting_valleys(step,path):
     
     return valley           
             
-               
-          
+                      
 step = 8
-path = 'DDUUUUDDDUDDDUUUDU'
+path = 'DDUUUUDD'
 
 print(counting_valleys(step,path))
